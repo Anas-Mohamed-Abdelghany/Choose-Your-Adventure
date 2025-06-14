@@ -121,10 +121,10 @@ public class StoryNode {
 ---
 
 ## 📷 Project Photos
-
 | | |
+
 |:-------------------------:|:-------------------------:|
-|<img width="500" alt="Game Start Screen" src="Telltale Adventure/photos/E1.jpg">|<img width="500" alt="Choice Selection" src="Telltale Adventure/photos/E2.jpg">|
+|<img width="500" alt="Game Start Screen" src="(https://github.com/user-attachments/assets/f16db9ec-d27f-4de5-b703-1b363bb8b75b)">|<img width="500" alt="Choice Selection" src="Telltale Adventure/photos/E2.jpg">|
 |<img width="500" alt="Story Progression" src="Telltale Adventure/photos/N5A.jpg">|<img width="500" alt="Game Ending" src="Telltale Adventure/photos/N3A.jpg">|
 
 ---
